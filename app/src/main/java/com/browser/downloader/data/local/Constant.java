@@ -24,11 +24,8 @@ public class Constant {
     public final static String UA_ID = "UA-117376697-1";
 
     // Admob
-    public final static String AD_APP_ID = "ca-app-pub-9480296373139891~6203246230";
-//    public final static String AD_BANNER_ID = "ca-app-pub-9480296373139891/5792182691";
-//    public final static String AD_INTERSTITIAL_ID = "ca-app-pub-9480296373139891/1768752178";
-
-    public final static String AD_BANNER_ID = "";
-    public final static String AD_INTERSTITIAL_ID = "";
+    public final static String AD_APP_ID = "ca-app-pub-8784046867356999~7519876148";
+    public final static String AD_BANNER_ID = "ca-app-pub-3940256099942544/6300978111";
+    public final static String AD_INTERSTITIAL_ID = "ca-app-pub-3940256099942544/1033173712";
 
 }
