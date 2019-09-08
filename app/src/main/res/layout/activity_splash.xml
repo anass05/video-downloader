@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:layout_width="@dimen/size_80"
+            android:layout_height="@dimen/size_80"
+            app:srcCompat="@drawable/ic_launcher" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_16"
+            android:text="@string/app_name"
+            android:textColor="@color/black_85"
+            android:textSize="@dimen/text_18" />
+
+        <ProgressBar
+            android:layout_width="@dimen/size_50"
+            android:layout_height="@dimen/size_50"
+            android:layout_marginTop="@dimen/padding_80"
+            android:padding="@dimen/padding_10" />
+    </LinearLayout>
+</layout>

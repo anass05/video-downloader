@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Video Downloader</string>
+
+    <string name="rate_app">We are working hard to bring you better user experience. \n\nHow was your experience with us?</string>
+    <string name="youtube_not_support">Due to legal restrictions, videos on %s cannot be downloaded.\n\nPlease download videos from other websites.</string>
+    <string name="youtube_not_support_title">%s is not supported!</string>
+    <string name="text_no_video">You have not downloaded any video yet.</string>
+    <string name="text_no_progress">You are not downloading any video.</string>
+    <string name="text_no_bookmark">No bookmark</string>
+    <string name="text_no_history">No history</string>
+
+    <string name="dialog_positive">OK</string>
+    <string name="dialog_negative">Cancel</string>
+    <string name="dialog_retry">Retry</string>
+
+    <string name="rename_title">Rename video</string>
+    <string name="rename_invalid">Invalid name. Please try again!</string>
+    <string name="rename_exist">Video name already exists!</string>
+
+    <string name="screen_browser">Screen Browser</string>
+    <string name="screen_progress">Screen Progress</string>
+    <string name="screen_video">Screen Video</string>
+    <string name="screen_online">Screen Online</string>
+    <string name="screen_settings">Screen Settings</string>
+    <string name="screen_player">Screen Player</string>
+    <string name="screen_bookmark">Screen Bookmark</string>
+    <string name="screen_history">Screen History</string>
+
+    <string name="action_show_ad_splash">Action Show Ad - Splash</string>
+    <string name="action_show_ad_browser">Action Show Ad - Browser</string>
+    <string name="action_show_ad_app">Action Show Ad - App</string>
+    <string name="action_rate_us_exit_app">Action Rate Us - Exit App</string>
+    <string name="action_rate_us_video_player">Action Rate Us - Video Player</string>
+    <string name="action_rate_us">Action Rate App</string>
+    <string name="action_open_folder">Action Open Folder</string>
+    <string name="action_share_app">Action Share App</string>
+    <string name="action_share_link">Action Share Link</string>
+    <string name="action_copy_link">Action Copy Link</string>
+    <string name="action_clear_history">Action Clear History</string>
+    <string name="action_clear_bookmark">Action Clear Bookmark</string>
+    <string name="action_clear_cookie">Action Clear Cookie</string>
+
+    <string name="action_update">Action Update App</string>
+    <string name="action_check_user">Action Check User</string>
+
+    <string name="action_search">Action Search</string>
+    <string name="action_search_suggestion">Action Search - Suggestion</string>
+
+    <string name="action_open_facebook">Action Click - Facebook</string>
+    <string name="action_open_twitter">Action Click - Twitter</string>
+    <string name="action_open_instagram">Action Click - Instagram</string>
+    <string name="action_open_dailymotion">Action Click - Dailymotion</string>
+    <string name="action_open_vimeo">Action Click - Vimeo</string>
+
+    <string name="action_download_done">Action Download - Done</string>
+    <string name="action_download_failed">Action Download - Failed</string>
+
+    <string name="action_video_preview">Action Video - Preview</string>
+    <string name="action_video_save">Action Video - Save</string>
+    <string name="action_video_save_ok">Action Video - Save - Ok</string>
+    <string name="action_video_save_cancel">Action Video - Save - Cancel</string>
+    <string name="action_video_download">Action Video - Download</string>
+    <string name="action_video_download_ok">Action Video - Download - Ok</string>
+    <string name="action_video_download_cancel">Action Video - Download - Cancel</string>
+    <string name="action_video_cancel">Action Video - Cancel</string>
+
+    <string name="action_play_prepared">Action Play - Prepared</string>
+    <string name="action_play_completed">Action Play - Completed</string>
+    <string name="action_play_error">Action Play - Error</string>
+
+    <string name="event_get_link_fail">Event Get Link - Failed</string>
+    <string name="event_get_link_success">Event Get Link - Succeed</string>
+    <string name="event_get_link_facebook">Event Get Link - Facebook</string>
+
+    <string name="event_get_link_fail_dailymotion">Event Get Link - Failed - Dailymotion</string>
+    <string name="event_get_link_success_dailymotion">Event Get Link - Succeed - Dailymotion</string>
+
+    <string name="event_report_link">Event Report Link</string>
+
+    <string name="link_facebook">https://facebook.com</string>
+    <string name="link_twitter">https://twitter.com</string>
+    <string name="link_instagram">https://instagram.com</string>
+    <string name="link_dailymotion">https://www.dailymotion.com</string>
+    <string name="link_vimeo">https://www.vimeo.com</string>
+
+    <string name="error_valid_link">Please enter a valid video link!</string>
+    <string name="error_video_page">Can\'t get video link. Please try again!</string>
+
+    <string name="error_internet_connection">Internet Connection Error</string>
+    <string name="error_data_format">Data Format Error</string>
+    <string name="error_unknown">Unknown Error</string>
+
+    <string name="message_report">Thank you for your report. We are working hard to bring you better user experience.</string>
+    <string name="message_exit">Do you want to exit this application?</string>
+    <string name="message_download_video">Do you want to download this video?</string>
+    <string name="message_save_video">If you <b>don\’t want to download</b> or <b>can\’t download</b> this video right now. You can save this video to <b>watch it online</b> and <b>download it later on</b>.</string>
+    <string name="message_open_folder">You don\'t have any file explorer app installed on your device</string>
+    <string name="message_open_video">You don\'t have any video player app installed on your device</string>
+    <string name="message_guide">Please go to <b>video detail page</b> to <b>play video first</b>, and the download button will be available after Video Downloader detects the video.</string>
+    <string name="message_update">A new version %s is available on Google Play. \n\nPlease update latest version to get the latest features, improvements and bug fixes.</string>
+</resources>
