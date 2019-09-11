@@ -25,7 +25,7 @@ public class Constant {
 
     // Admob
     public final static String AD_APP_ID = "ca-app-pub-8784046867356999~7519876148";
-    public final static String AD_BANNER_ID = "ca-app-pub-3940256099942544/6300978111";
-    public final static String AD_INTERSTITIAL_ID = "ca-app-pub-3940256099942544/1033173712";
+    public final static String AD_BANNER_ID = "ca-app-pub-8784046867356999/8612276591";
+    public final static String AD_INTERSTITIAL_ID = "ca-app-pub-8784046867356999/6546539971";
 
 }

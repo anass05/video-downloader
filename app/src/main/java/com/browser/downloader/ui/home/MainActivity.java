@@ -130,7 +130,7 @@ public class MainActivity extends BaseTiActivity<MainPresenter, MainView> implem
         trackEvent(getString(R.string.app_name), getString(R.string.action_check_user), AppUtil.getRetentionTime(this));
 
         // Update dialog
-        showUpdateDialog();
+//        showUpdateDialog();
     }
 
     @Subscribe
