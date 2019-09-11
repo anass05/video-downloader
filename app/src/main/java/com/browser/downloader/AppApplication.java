@@ -5,12 +5,12 @@ import android.support.multidex.MultiDex;
 import android.support.multidex.MultiDexApplication;
 import android.util.Log;
 
-import com.browser.core.logging.CrashlyticsLogExceptionTree;
-import com.browser.core.logging.CrashlyticsLogTree;
-import com.browser.core.logging.FileLoggingTree;
-import com.browser.core.logging.FirebaseCrashLogExceptionTree;
-import com.browser.core.logging.FirebaseCrashLogTree;
-import com.browser.core.util.GlobalContext;
+import com.browser.aa.logging.CrashlyticsLogExceptionTree;
+import com.browser.aa.logging.CrashlyticsLogTree;
+import com.browser.aa.logging.FileLoggingTree;
+import com.browser.aa.logging.FirebaseCrashLogExceptionTree;
+import com.browser.aa.logging.FirebaseCrashLogTree;
+import com.browser.aa.util.GlobalContext;
 import com.browser.downloader.data.local.Constant;
 import com.browser.downloader.injection.component.ApplicationComponent;
 import com.browser.downloader.injection.component.DaggerApplicationComponent;

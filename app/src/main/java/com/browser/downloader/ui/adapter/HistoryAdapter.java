@@ -5,10 +5,10 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
-import com.browser.core.R;
+import com.browser.aa.R;
 import com.browser.downloader.callback.CallbackListener;
 import com.browser.downloader.data.model.WebViewData;
-import com.browser.core.databinding.ItemHistoryBinding;
+import com.browser.aa.databinding.ItemHistoryBinding;
 
 import java.util.ArrayList;
 

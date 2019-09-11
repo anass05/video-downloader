@@ -7,9 +7,9 @@ import android.support.annotation.NonNull;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.browser.core.R;
-import com.browser.core.databinding.ActivitySplashBinding;
-import com.browser.core.mvp.BaseTiActivity;
+import com.browser.aa.R;
+import com.browser.aa.databinding.ActivitySplashBinding;
+import com.browser.aa.mvp.BaseTiActivity;
 import com.browser.downloader.data.local.PreferencesManager;
 import com.browser.downloader.data.model.ConfigData;
 import com.browser.downloader.ui.home.MainActivity;

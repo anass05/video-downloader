@@ -5,9 +5,9 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
-import com.browser.core.R;
+import com.browser.aa.R;
 import com.browser.downloader.data.model.ProgressInfo;
-import com.browser.core.databinding.ItemProgressBinding;
+import com.browser.aa.databinding.ItemProgressBinding;
 
 import java.util.ArrayList;
 

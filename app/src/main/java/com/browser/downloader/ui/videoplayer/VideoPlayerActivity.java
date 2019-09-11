@@ -18,11 +18,11 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.SeekBar;
 
-import com.browser.core.R;
-import com.browser.core.databinding.ActivityVideoPlayerBinding;
-import com.browser.core.mvp.BaseTiActivity;
-import com.browser.core.util.IntentUtil;
-import com.browser.core.util.TimeUtil;
+import com.browser.aa.R;
+import com.browser.aa.databinding.ActivityVideoPlayerBinding;
+import com.browser.aa.mvp.BaseTiActivity;
+import com.browser.aa.util.IntentUtil;
+import com.browser.aa.util.TimeUtil;
 import com.browser.downloader.callback.DialogListener;
 import com.browser.downloader.data.local.PreferencesManager;
 import com.browser.downloader.data.model.VideoState;

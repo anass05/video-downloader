@@ -3,11 +3,11 @@ package com.browser.downloader.data.remote;
 import android.content.Context;
 import android.os.AsyncTask;
 
-import com.browser.core.R;
-import com.browser.core.ui.BaseActivity;
-import com.browser.core.util.AppUtil;
-import com.browser.core.util.DialogUtil;
-import com.browser.core.util.StringUtil;
+import com.browser.aa.R;
+import com.browser.aa.ui.BaseActivity;
+import com.browser.aa.util.AppUtil;
+import com.browser.aa.util.DialogUtil;
+import com.browser.aa.util.StringUtil;
 import com.browser.downloader.data.model.Video;
 
 import org.json.JSONObject;

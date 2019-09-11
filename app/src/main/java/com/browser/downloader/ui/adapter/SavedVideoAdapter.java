@@ -8,19 +8,19 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.browser.core.R;
+import com.browser.aa.R;
 import com.browser.downloader.ui.videoplayer.VideoPlayerActivity;
 import com.browser.downloader.data.model.Video;
-import com.browser.core.databinding.ItemVideoSavedBinding;
+import com.browser.aa.databinding.ItemVideoSavedBinding;
 
 import org.greenrobot.eventbus.EventBus;
 
 import java.util.ArrayList;
 
 import com.browser.downloader.data.local.PreferencesManager;
-import com.browser.core.util.FileUtil;
-import com.browser.core.util.IntentUtil;
-import com.browser.core.util.TimeUtil;
+import com.browser.aa.util.FileUtil;
+import com.browser.aa.util.IntentUtil;
+import com.browser.aa.util.TimeUtil;
 
 public class SavedVideoAdapter
         extends RecyclerView.Adapter<SavedVideoAdapter.VideoViewHolder> {

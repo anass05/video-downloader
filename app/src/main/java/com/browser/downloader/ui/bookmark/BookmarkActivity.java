@@ -8,9 +8,9 @@ import android.support.annotation.NonNull;
 import android.support.v7.widget.LinearLayoutManager;
 import android.view.View;
 
-import com.browser.core.R;
-import com.browser.core.databinding.ActivityBookmarkBinding;
-import com.browser.core.mvp.BaseTiActivity;
+import com.browser.aa.R;
+import com.browser.aa.databinding.ActivityBookmarkBinding;
+import com.browser.aa.mvp.BaseTiActivity;
 import com.browser.downloader.ui.adapter.BookmarkAdapter;
 import com.browser.downloader.ui.home.BrowserFragment;
 

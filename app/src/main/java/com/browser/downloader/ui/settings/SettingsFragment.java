@@ -8,12 +8,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.browser.core.R;
-import com.browser.core.databinding.FragmentSettingsBinding;
-import com.browser.core.mvp.BaseTiFragment;
-import com.browser.core.util.AppUtil;
-import com.browser.core.util.FileUtil;
-import com.browser.core.util.IntentUtil;
+import com.browser.aa.R;
+import com.browser.aa.databinding.FragmentSettingsBinding;
+import com.browser.aa.mvp.BaseTiFragment;
+import com.browser.aa.util.AppUtil;
+import com.browser.aa.util.FileUtil;
+import com.browser.aa.util.IntentUtil;
 import com.browser.downloader.data.local.Constant;
 
 import java.util.ArrayList;

@@ -3,7 +3,7 @@ package com.browser.downloader.ui.home;
 import android.text.TextUtils;
 import android.webkit.WebView;
 
-import com.browser.core.mvp.BaseTiPresenter;
+import com.browser.aa.mvp.BaseTiPresenter;
 import com.browser.downloader.AppApplication;
 import com.browser.downloader.data.local.PreferencesManager;
 import com.browser.downloader.data.model.ConfigData;

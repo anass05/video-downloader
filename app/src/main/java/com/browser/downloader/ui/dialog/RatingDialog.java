@@ -6,7 +6,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.view.Window;
 import android.widget.TextView;
 
-import com.browser.core.R;
+import com.browser.aa.R;
 import com.browser.downloader.callback.DialogListener;
 import com.hsalf.smilerating.SmileRating;
 

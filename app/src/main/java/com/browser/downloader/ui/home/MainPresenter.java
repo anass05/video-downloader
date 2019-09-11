@@ -1,7 +1,7 @@
 package com.browser.downloader.ui.home;
 
-import com.browser.core.mvp.BaseTiPresenter;
-import com.browser.core.util.AdUtil;
+import com.browser.aa.mvp.BaseTiPresenter;
+import com.browser.aa.util.AdUtil;
 import com.browser.downloader.AppApplication;
 import com.browser.downloader.data.local.PreferencesManager;
 import com.browser.downloader.data.model.ConfigData;

@@ -6,7 +6,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.view.Window;
 import android.widget.Button;
 
-import com.browser.core.R;
+import com.browser.aa.R;
 
 public class GuidelineDialog {
 

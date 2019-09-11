@@ -3,7 +3,7 @@ package com.browser.downloader.data.remote;
 import android.os.AsyncTask;
 import android.text.Html;
 
-import com.browser.core.util.StringUtil;
+import com.browser.aa.util.StringUtil;
 
 import org.json.JSONArray;
 

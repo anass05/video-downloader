@@ -4,8 +4,8 @@ import android.app.DownloadManager;
 import android.database.Cursor;
 import android.net.Uri;
 
-import com.browser.core.mvp.BaseTiPresenter;
-import com.browser.core.util.FileUtil;
+import com.browser.aa.mvp.BaseTiPresenter;
+import com.browser.aa.util.FileUtil;
 import com.browser.downloader.AppApplication;
 import com.browser.downloader.data.local.PreferencesManager;
 import com.browser.downloader.data.model.ProgressInfo;

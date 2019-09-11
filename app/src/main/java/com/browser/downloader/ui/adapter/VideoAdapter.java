@@ -11,15 +11,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.browser.core.R;
+import com.browser.aa.R;
 import com.browser.downloader.ui.videoplayer.VideoPlayerActivity;
-import com.browser.core.databinding.ItemVideoBinding;
+import com.browser.aa.databinding.ItemVideoBinding;
 
 import java.io.File;
 import java.util.ArrayList;
 
-import com.browser.core.util.FileUtil;
-import com.browser.core.util.IntentUtil;
+import com.browser.aa.util.FileUtil;
+import com.browser.aa.util.IntentUtil;
 
 public class VideoAdapter
         extends RecyclerView.Adapter<VideoAdapter.FileViewHolder> {

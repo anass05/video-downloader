@@ -5,10 +5,10 @@ import android.os.AsyncTask;
 import android.os.StrictMode;
 import android.text.TextUtils;
 
-import com.browser.core.R;
-import com.browser.core.ui.BaseActivity;
-import com.browser.core.util.DialogUtil;
-import com.browser.core.util.StringUtil;
+import com.browser.aa.R;
+import com.browser.aa.ui.BaseActivity;
+import com.browser.aa.util.DialogUtil;
+import com.browser.aa.util.StringUtil;
 import com.browser.downloader.data.local.Constant;
 import com.browser.downloader.data.model.Format;
 

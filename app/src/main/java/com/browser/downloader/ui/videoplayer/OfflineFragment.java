@@ -9,10 +9,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.browser.core.R;
-import com.browser.core.databinding.FragmentVideoBinding;
-import com.browser.core.mvp.BaseTiFragment;
-import com.browser.core.util.FileUtil;
+import com.browser.aa.R;
+import com.browser.aa.databinding.FragmentVideoBinding;
+import com.browser.aa.mvp.BaseTiFragment;
+import com.browser.aa.util.FileUtil;
 import com.browser.downloader.data.model.Video;
 import com.browser.downloader.ui.adapter.VideoAdapter;
 
